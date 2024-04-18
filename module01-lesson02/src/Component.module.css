@@ -1,0 +1,20 @@
+.divStyle {
+	background-color: green;
+	color: yellow;
+	border: 2px solid white;
+}
+
+.divStyle:hover {
+	background-color: yellow;
+	border: 2px solid black;
+	color: green;
+}
+
+.spacing {
+	padding: 20px;
+	margin: 20px;
+}
+
+.textRight {
+	text-align: right;
+}
